@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[baw:home|Door43 (baw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-baw|d43-baw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-baw/archive/master.zip|d43-baw.zip]]
+
+**Recent Changes**
+{{changes>ns = baw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/baw|Ethnologue data]]
+
